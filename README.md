@@ -1,6 +1,6 @@
 Hello, 
 I’m @Abdib456 
-I study Mathematics and Computer Science at the University of Bath
+Mathematics and Computer Science graduate from the University of Bath
 
 
 <!---
